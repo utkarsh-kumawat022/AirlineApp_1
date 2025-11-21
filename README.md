@@ -1,2 +1,2 @@
-# AirlineApp_1
+# AirlineApp
 Make travel booking easier and faster

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^8.5.0",
+    "axios": "^1.13.2",
+    "currency.js": "^2.0.4",
+    "expo-print": "^15.0.7",
+    "expo-sharing": "^14.0.7"
+  }
+}
